@@ -1,4 +1,4 @@
-def enumerators():
+# def enumerators():
   
   ##############################enumerators in python #####################################################
   
